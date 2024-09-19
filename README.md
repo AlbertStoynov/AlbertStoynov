@@ -13,7 +13,7 @@ Advanced Web Development Principles, Web Design and Javascript
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 Contributions:
-![]<a href="https://hosted.weblate.org/engage/immich/-/en/">
+<a href="https://hosted.weblate.org/engage/immich/-/en/">
 <img src="https://hosted.weblate.org/widget/immich/immich/287x66-black.png" alt="Translation status" />
 </a>
 
