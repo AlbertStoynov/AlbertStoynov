@@ -13,10 +13,10 @@ Advanced Web Development Principles, Web Design and Javascript
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 Contributions:
+Translating Immich to Bulgarian in order to support it's growing userbase to promote FOSS projects!
 <a href="https://hosted.weblate.org/engage/immich/-/en/">
 <img src="https://hosted.weblate.org/widget/immich/immich/287x66-black.png" alt="Translation status" />
 </a>
 
 ---
-Translating Immich to Bulgarian in order to support it's growing userbase to promote FOSS projects!
 [![](https://visitcount.itsvg.in/api?id=albert-stoynov&icon=0&color=0)](https://visitcount.itsvg.in)
